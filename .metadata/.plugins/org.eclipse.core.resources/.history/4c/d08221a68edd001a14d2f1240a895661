@@ -1,0 +1,18 @@
+public class temperaturaMeses {
+	public static String[] meses;
+	
+	public static void main(String[] args) {
+		meses = new String[12];
+		int[] temperaturas = new int[12];
+		int posicao = 0;
+		
+	}
+	
+	public static void mostraTemperaturas(String mes, int temperatura) {
+		
+	}
+}
+/*Faça um programa que receba a temperatura média de cada mês do ano e armazene-as em um array. Mostre a maior e a menor temperatura do ano e em que mês
+elas ocorreram (mostrar o mês por extenso: 1 – janeiro, 2 – fevereiro, ...).
+Obs: Desconsiderar empates.*/
+

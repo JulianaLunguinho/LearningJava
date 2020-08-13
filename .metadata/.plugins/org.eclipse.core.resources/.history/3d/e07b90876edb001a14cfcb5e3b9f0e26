@@ -1,0 +1,10 @@
+public class aula01{
+
+	public static void main(String[] args) { 
+	
+		double numeroMagico = 0.1 + 0.2; 
+		boolean finalDeSemana = false; 
+		int numero = 'a'; 
+		System.out.println(numero); 
+	}
+

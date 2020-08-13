@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+/home/spina/arquivos_e_pastas/git/LearningJava/.metadata/.plugins/org.eclipse.jdt.core
+314531727.index
+2587844173.index
+29500664.index
+3237905120.index
+1993437341.index
+1474344056.index
+2265131013.index
+3408339847.index
+2506685594.index
+1092143866.index
+405963884.index
+998782559.index
+3944792786.index
+1190846795.index
+3835477106.index
+2736500556.index
+2059135892.index
+1023777476.index
+3433796963.index

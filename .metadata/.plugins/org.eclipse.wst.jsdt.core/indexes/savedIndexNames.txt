@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/spina/arquivos_e_pastas/git/Grupo_Estudos_6/Juliana_Lunguinho/Workspace-Java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+314531727.index
+4187537178.index
+1853289509.index
+1021019563.index
+873997770.index
